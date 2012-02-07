@@ -1,0 +1,5 @@
+A basic scraper/spider using the python scrapy framework [1] to make vessel tracking information on the Lyttelton Port of Christchurch website [2] a little more useful.
+
+-----------
+[1] http://scrapy.org
+[2] Terms of Service require permission to link to website, yet allow copying and reuse of data within it. Interesting.
