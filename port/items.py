@@ -5,7 +5,13 @@
 
 from scrapy.item import Item, Field
 
-class PortItem(Item):
-    # define the fields for your item here like:
-    # name = Field()
-    pass
+class PortVisit(Item):
+    category = Field()
+    vessel = Field()
+    berth = Field()
+    arrival = Field()
+    origin = Field()
+    departure = Field()
+    destination = Field()
+    agent = Field()
+    cargo = Field()
